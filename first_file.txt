@@ -1,2 +1,3 @@
 first file to show git add, commit and push commands
 modifying this file to show how changes work
+this line will be modified in next commit
